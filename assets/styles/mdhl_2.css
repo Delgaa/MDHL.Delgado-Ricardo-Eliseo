@@ -74,6 +74,9 @@ p, h3{
 nav>a:hover{
     padding: 10px;
 }
+span>a{
+    color: rgb(28, 28, 163);
+}
 .parrf{
     text-align: justify;
     padding: 0 15rem;
