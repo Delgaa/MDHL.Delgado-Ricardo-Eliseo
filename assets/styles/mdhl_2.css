@@ -123,6 +123,9 @@ ol.secondlist{
     display: flex;
     justify-content: space-evenly;
 }
+.capti-2{
+    text-decoration: underline;
+}
 
 th{
     padding: 10px;
